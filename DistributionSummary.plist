@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FeiXiaoHao.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>76FF8345DA3CEABA017D991C779458C5DA0FBA03</string>
+				<key>dateExpires</key>
+				<string>2019/3/20</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>76FF8345DA3CEABA017D991C779458C5DA0FBA03</string>
+						<key>dateExpires</key>
+						<string>2019/3/20</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>Charts.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>68X64XWSX3</string>
+						<key>name</key>
+						<string>Meizhou Luyouxia Technology Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>76FF8345DA3CEABA017D991C779458C5DA0FBA03</string>
+						<key>dateExpires</key>
+						<string>2019/3/20</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>entitlements</key>
+					<dict>
+						<key>application-identifier</key>
+						<string>68X64XWSX3.com.feixiaohao.pro.------</string>
+						<key>com.apple.developer.team-identifier</key>
+						<string>68X64XWSX3</string>
+						<key>com.apple.security.application-groups</key>
+						<array>
+							<string>group.FeiXiaoHaoNewMarket</string>
+						</array>
+						<key>get-task-allow</key>
+						<true/>
+					</dict>
+					<key>name</key>
+					<string>非小号-行情.appex</string>
+					<key>profile</key>
+					<dict>
+						<key>UUID</key>
+						<string>186986d3-2ff5-4f6a-a5fb-3664831b9fb1</string>
+						<key>name</key>
+						<string>iOS Team Provisioning Profile: com.feixiaohao.pro.------</string>
+					</dict>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>68X64XWSX3</string>
+						<key>name</key>
+						<string>Meizhou Luyouxia Technology Co., Ltd.</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>68X64XWSX3.com.feixiaohao.pro</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>68X64XWSX3</string>
+				<key>com.apple.security.application-groups</key>
+				<array>
+					<string>group.FeiXiaoHaoNewMarket</string>
+				</array>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>FeiXiaoHao.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>9d4ae7ea-ef84-4b7e-b79c-a40c3df8b5d6</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.feixiaohao.pro</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>68X64XWSX3</string>
+				<key>name</key>
+				<string>Meizhou Luyouxia Technology Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
